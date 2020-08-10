@@ -4,4 +4,4 @@ I am enrolled in 'Data Science Specialisation' @ John Hopkins University...provi
 After creating repository 'hello-world' I have created a branch to practice creating a branch and editing this README.md.
 I find Data really interesting, and I am actively seeking a base knowledge of available tools to aid me in my Data Science journey.
 
-
+Revisiting the Github 'Hello World' Guide to consolidate knowledge. I have completed 'The Data Scientist's Toolbox' course #1.
